@@ -6,8 +6,13 @@
     <title>Test Page</title>
 </head>
 <body>
+    
+     <h1>Home</h1>
     <?php
     echo "this is home";
+
+    
     ?>
+   
 </body>
 </html>
